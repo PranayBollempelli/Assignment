@@ -1,0 +1,30 @@
+.nav_bg {
+    background-color: rgba(1, 1, 38, 0.997);
+    height: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-heading {
+    color: aliceblue;
+    padding: 0px;
+    margin: 0px;
+    height: 23px;
+}
+
+.nav-list{
+    color: aliceblue;
+    display: flex;
+    list-style: none;
+}
+
+.list-items {
+    margin-right: 20px;
+}
+
+.login-button{
+    height: 25px;
+    border: 0px;
+}

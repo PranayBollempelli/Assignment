@@ -1,0 +1,13 @@
+.placement-container{
+    background-color: rgb(234, 248, 253);
+    padding: 20px;
+    margin: 20px;
+}
+
+.placement-heading{
+    text-align: center;
+}
+
+.placement-headings{
+    margin: 0px;
+}

@@ -1,0 +1,87 @@
+.why-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.why-heading{
+    margin: 0px;
+}
+
+.line{
+    border: 2px solid black;
+    width: 100px;
+}
+
+.card-conatiner{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    background-color: rgb(234, 248, 253);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+.icon{
+    font-size: 60px;
+}
+
+.exam-cards-conatainer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.exam-card{
+    border-top: 2px solid gray;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.exam-heading{
+    margin: 0px;
+}
+
+.exam-time{
+    margin: 0px;
+}
+
+.what-cards-container{
+   display: flex;
+}
+
+.why-heading{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.what-cards {
+    background-color: rgb(234, 248, 253);
+    height: auto;
+    width: 200px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.what-heading {
+    background-color: rgba(1, 1, 38, 0.997);
+    color: white;
+    padding: 5px;
+    margin: 0px;
+}
+
+.points{
+    font-size: 12px;
+}
